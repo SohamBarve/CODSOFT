@@ -1,0 +1,75 @@
+html{
+   background: rgb(253, 185, 120);
+}
+
+
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #a2f4ff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.about img {
+    max-width: 50%;
+    border-radius: 15px;
+    text-align : right;
+}
+
+.skills {
+    margin-top: 20px;
+    max-width: 800px;
+    background-color: #a2f4ff;
+    margin: 20px auto;
+    padding: 20px;
+}
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Sub img {
+    max-width: 100%;
+    border-radius: 50%;
+    text-align : right;
+}
+
+.projects {
+    margin-top: 30px;
+    max-width: 800px;
+    background-color: #a2f4ff;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.projects .project {
+    margin-bottom: 30px;
+}
+
+.projects img {
+    max-width: 100%;
+}
+
+.Contactmain {
+    margin-top: 20px;
+    margin-top: 30px;
+    max-width: 800px;
+    background-color: #a2f4ff;
+    margin: 20px auto;
+    padding: 20px
+}
+.footer {
+    text-align: center;
+    background-color: #ffffff;
+    color: #1500ff;
+    padding: 10px 0;
+    border: 10px;
+}

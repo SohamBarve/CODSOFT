@@ -1,0 +1,84 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #606060;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #c191e8;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.nav-menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+.hero {
+    background-image: url('premium_photo-1683725241362-12b7560f9321.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+    text-decoration: underline;
+}
+
+.about {
+    background-color: #c191e8;
+    padding: 50px 0;
+}
+
+.services {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+    background-image: url(Top-10-Advertising-Companies-in-India-F.png);
+    background-size: cover;
+    position: relative;
+}
+
+
+
+.contact {
+    background-color: #c191e8;
+    padding: 50px 0;
+}
+
+
+.footer {
+    text-align: center;
+    background-color: #ffffff;
+    color: #1500ff;
+    padding: 10px 0;
+    border: 10px;
+    text-decoration: bold;
+}
